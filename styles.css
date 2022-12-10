@@ -1,0 +1,33 @@
+#div-coluna1{
+    width: 280px;
+    background-color: rgb(128, 41, 91);
+    height: 1000px;
+}
+
+h1{
+    font-size: 48.83;
+}
+   
+h2{
+    font-size: 25.00px;
+}
+
+h3{
+    font-size: 16.00px;
+}
+
+.negrito{
+    font-weight: bold;
+}
+
+.texto-branco{
+    color: white;
+}
+
+.texto-centro{
+    text-align: center;
+}
+
+.minha-foto{
+    width: 200px;
+}
